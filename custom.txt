@@ -1,0 +1,6 @@
+! Title: Danh sách chặn của tôi
+! Description: Chặn quảng cáo và popup bổ sung
+! Version: 1.0
+
+||blogger.googleusercontent.com^
+||iili.io^
