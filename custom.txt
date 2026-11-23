@@ -3,5 +3,6 @@
 ! Title: Custom Blocklist
 ! Description: Custom ads blocking
 ! Expires: 4 days
+
 ###popup-ad-overlay
 ###banner-top-ad
