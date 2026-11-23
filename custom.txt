@@ -2,6 +2,6 @@
 [Adblock Plus]
 ! Title: Popup Block Filter
 ! Description: Block popup overlay ads
-
+!
 ###popup-ad-overlay
 ###banner-top-ad
