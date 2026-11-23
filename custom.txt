@@ -1,7 +1,8 @@
-
 [Adblock Plus]
-! Title: Popup Block Filter
-! Description: Block popup overlay ads
+! Version: 1.0
+! Title: Tingau90 Popup Blocklist
+! Description: Custom popup and banner blocking rules
+! Expires: 4 days
 !
 ###popup-ad-overlay
 ###banner-top-ad
