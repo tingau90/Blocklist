@@ -2,7 +2,5 @@
 ! Description: Chặn quảng cáo và popup bổ sung
 ! Version: 1.0
 
-tvhay.buzz###popup-ad-overlay
-tvhay.buzz###banner-top-ad
 ###popup-ad-overlay
 ###banner-top-ad
