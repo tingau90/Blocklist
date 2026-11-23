@@ -1,6 +1,7 @@
-! Title: Danh sách chặn của tôi
-! Description: Chặn quảng cáo và popup bổ sung
-! Version: 1.0
+
+[Adblock Plus]
+! Title: Popup Block Filter
+! Description: Block popup overlay ads
 
 ###popup-ad-overlay
 ###banner-top-ad
